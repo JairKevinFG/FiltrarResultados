@@ -1,4 +1,4 @@
-# -searcherJs
+
 filtrar y buscar en base a diferentes campos 
 
 
